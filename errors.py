@@ -1,0 +1,2 @@
+class NoMoreAttemptsError(Exception):
+    pass
